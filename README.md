@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeyphrine!</h1>
-<h3 align="center">Welcome to my GitHub profile! I am a Programmer and Motion Graphic Designer with a passion for Android Development. I have experience in Editing (Motion Graphic), UI/UX Design, and Android Development especially Flutter, and I enjoy contributing to open source projects as well as working on my own personal projects. Here are a few things about me:</h3>
+<h3 align="center">Welcome to my GitHub profile! I am a Front End Developer and Motion Graphic Designer. I have experience in Editing (Motion Graphic), UI/UX Design, and Front End Development especially Flutter, and I enjoy contributing to open source projects as well as working on my own personal projects. Here are a few things about me:</h3>
 
-<img align="right" alt="maomao" width="400" src="https://i.pinimg.com/originals/32/ae/a4/32aea487a264ee97297f5213e1535333.gif">
+<img align="right" alt="axolotl" width="400" src="https://i.pinimg.com/originals/32/ae/a4/32aea487a264ee97297f5213e1535333.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyphrin&label=Profile%20views&color=0e75b6&style=flat" alt="zeyphrin" /> </p>
 
@@ -20,7 +20,7 @@
 <a href="https://twitter.com/yakariiay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yakariiay" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yakaria-yahya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yakaria-yahya" height="30" width="40" /></a>
 <a href="https://www.instagram.com/chizuworks/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chizuworks" height="30" width="40" /></a>
-<a href="https://discord.gg/1195339272618791020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1195339272618791020" height="30" width="40" /></a>
+<a href="https://discord.gg/users/1195339272618791020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1195339272618791020" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
