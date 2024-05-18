@@ -20,7 +20,7 @@
 <a href="https://twitter.com/yakariiay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yakariiay" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yakaria-yahya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yakaria-yahya" height="30" width="40" /></a>
 <a href="https://www.instagram.com/chizuworks/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chizuworks" height="30" width="40" /></a>
-<a href="[discordapp.com/users/1195339272618791020](https://discord.gg/APpQXudRME)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1195339272618791020" height="30" width="40" /></a>
+<a href="https://discord.gg/APpQXudRME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1195339272618791020" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
