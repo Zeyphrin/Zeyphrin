@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [RusConsign](https://github.com/AufaNajid/RusConsign)
 
-- 🌱 I’m currently learning **Flutter, JavaScript, NodeJS**
+- 🌱 I’m currently learning **Flutter, JavaScript, VueJS**
 
 - 📫 How to reach me **yakariayahya50@gmail.com**
 
