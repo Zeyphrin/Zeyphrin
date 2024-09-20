@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/yakariiay" target="blank"><img src="https://img.shields.io/twitter/follow/yakariiay?logo=twitter&style=for-the-badge" alt="yakariiay" /></a> </p>
 
-- 🔭 I’m currently working on [RusConsign](https://github.com/AufaNajid/RusConsign)
-
 - 🌱 I’m currently learning **Flutter, JavaScript, VueJS**
 
 - 📫 How to reach me **yakariayahya50@gmail.com**
