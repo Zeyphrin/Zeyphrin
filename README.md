@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **yakariayahya50@gmail.com**
 
-- ⚡ Fun fact **I Love Axolotl ꒰(˶• ᴗ •˶)꒱**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
